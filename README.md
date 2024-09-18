@@ -14,18 +14,30 @@
                                                                                                                     
   ▍    ▍   ☆                                                       
 
-  ▍   ✰                  
+  ▍   ✰      
 
- ☆    
  ──┈┈┈┄┄╌╌╌╌┄┄┈┈┈──°°°·.°·..·°¯°·._.·
+
+ ☆      ૮꒰◞ ˕ ◟ ྀི꒱ა *Meus contatos Pessoais*          
+
+ <div display = "incline">
+   
+<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
+
+ ──┈┈┈┄┄╌╌╌╌┄┄┈┈┈──°°°·.°·..·°¯°·._.·
+ 
 <div display = "incline">
 <img width = "50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img  width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />   
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg" />
-          
+<img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg" />          
 </div>
 
 
