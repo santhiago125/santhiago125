@@ -42,7 +42,8 @@
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img  width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />   
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-<img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg" />          
+<img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg" />  
+<img width ="50" heigth ="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />  
 </div>
 
 
