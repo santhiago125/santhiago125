@@ -25,14 +25,13 @@
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a herf = "https://www.instagram.com/thais.santana_santos14?igsh=Z2Nla2liZXYyNzdo&utm_source=qr">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href = "https://s3.eu-north-1.amazonaws.com/qrlogo.io/pdf/5dfub8krw.pdf">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-<a herf = "https://www.linkedin.com/in/thais-santana-a25341252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+<a href = "https://s3.eu-north-1.amazonaws.com/qrlogo.io/pdf/5dfub8krw.pdf">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </div>
 
  ──┈┈┈┄┄╌╌╌╌┄┄┈┈┈──°°°·.°·..·°¯°·._.·
