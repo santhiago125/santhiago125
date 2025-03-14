@@ -21,7 +21,7 @@
  ☆      ૮꒰◞ ˕ ◟ ྀི꒱ა *Meus contatos Pessoais*          
 
  <div display = "incline">
-<a href = "file:///C:/Users/Admin/Downloads/03.html">
+<a href = "https://pdf.ac/1F2pqX">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
