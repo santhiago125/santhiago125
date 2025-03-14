@@ -21,7 +21,7 @@
  ☆      ૮꒰◞ ˕ ◟ ྀི꒱ა *Meus contatos Pessoais*          
 
  <div display = "incline">
-<a href = "https://pdf.ac/34VlRq">
+<a href = "https://pdf.ac/1F2qdd">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
