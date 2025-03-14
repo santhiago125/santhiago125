@@ -30,7 +30,7 @@
 </a>
 
 <a href = "https://www.linkedin.com/in/thais-santana-a25341252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-<img src=""/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
 
