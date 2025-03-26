@@ -26,7 +26,7 @@
 </a>
 
 
-<a href = "">
+<a href = "https://www.linkedin.com/in/santiago-santos-657580358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
@@ -35,12 +35,17 @@
  
 <div display = "incline">
 <img width = "50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+  
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img  width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />   
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg" />  
+
 <img width ="50" heigth ="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />  
+
 <img width ="50" heigth ="50" src="https://media.imgcdn.org/repo/2023/06/medibang-paint-pro/6494179e4e314-medibang-paint-pro-Icon.webp" />  
 </div>
 
