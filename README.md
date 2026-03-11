@@ -36,11 +36,11 @@
 <img  width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />   
 <img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 
-<img width ="50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-plain.svg" />  
+<img width ="50" heigth ="50" src="" />  
 
 <img width ="50" heigth ="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" />  
 
-<img width ="50" heigth ="50" src="https://media.imgcdn.org/repo/2023/06/medibang-paint-pro/6494179e4e314-medibang-paint-pro-Icon.webp" />  
+<img width ="50" heigth ="50" src="http://www.aptechsp.com.br/curso-de-linguagem-c/" />  
 </div>
 
 
