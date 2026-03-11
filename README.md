@@ -2,7 +2,7 @@
   
   ▍    ▍    ▍    ▍    ▍    ▍   ▍    ▍ ☆                       Bem Vindo ao meu perfil (∩˃ω˂∩)-漫~'¨¯¨'·舞~
 
-  ▍    ▍    ▍    ▍    ▍    ▍   ▍   ✰                           - ≽ ^ • ⩊ • ^ ≼ Atualmente estou trabalhando em uma loja                         
+  ▍    ▍    ▍    ▍    ▍    ▍   ▍   ✰                           - ≽ ^ • ⩊ • ^ ≼ Atualmente estou cursando universidade                        
 
   ▍    ▍    ▍    ▍    ▍    ▍ ☆                                  - ৻( •̀ ᗜ •́ ৻) Atualmente estou aprendendo programaçao de API                                
 
@@ -10,7 +10,7 @@
 
   ▍    ▍    ▍    ▍   ☆                                            - ( ≧ᗜ≦) Pronomes: Ele/Dele                                                     
  
-  ▍    ▍    ▍    ✰                                                - (づ๑•ᴗ•๑)づ♡ Curiosidade: Faço Animações e Roteiros              
+  ▍    ▍    ▍    ✰                                                - (づ๑•ᴗ•๑)づ♡ Curiosidade: gosto de assistir animes, faço edição de video, além disso tenho projetos pessoais como escrever livros e fazer visual novel           
                                                                                                                     
   ▍    ▍   ☆                                                       
 
