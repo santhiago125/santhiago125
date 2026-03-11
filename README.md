@@ -4,7 +4,7 @@
 
   ▍    ▍    ▍    ▍    ▍    ▍   ▍   ✰                           - ≽ ^ • ⩊ • ^ ≼ Atualmente estou cursando universidade                        
 
-  ▍    ▍    ▍    ▍    ▍    ▍ ☆                                  - ৻( •̀ ᗜ •́ ৻) Atualmente estou aprendendo programaçao de API                                
+  ▍    ▍    ▍    ▍    ▍    ▍ ☆                                  - ৻( •̀ ᗜ •́ ৻)  aprendendo linguagem em c e aprimorando conhecimento 
 
   ▍    ▍    ▍    ▍    ▍    ✰                                    - (˵ •̀ ᴗ - ˵ ) ✧ Como me contatar: thaissantanasantos2@gmail.com                                           
 
