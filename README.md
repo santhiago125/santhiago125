@@ -44,7 +44,10 @@
 <img width ="50" heigth ="50" src="https://lh6.googleusercontent.com/proxy/aFelwGbPlotVVa-LjaVPG7QaMTtsZV8bK0VQvtQVhs-gYAAmP7Ks6EEriouNbzGKkIB2jydb0tj7NOzTLUOyyHLtKdkoQ5WHJ5UjjTcgSKm3-IRQ1xX0fQ" />  
 </div>
 
+ ──┈┈┈┄┄╌╌╌╌┄┄┈┈┈──°°°·.°·..·°¯°·._.·
 
+☆      (─‿‿─) *Programa voluntario*    
 
+<img width = "50" heigth ="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RGZVxmPr_n-59wRd1e8zTZUBqqfmZazXgQ&s" />
 
 
