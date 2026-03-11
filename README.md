@@ -18,6 +18,8 @@
 
  ──┈┈┈┄┄╌╌╌╌┄┄┈┈┈──°°°·.°·..·°¯°·._.·
 
+ 
+
  ☆      ૮꒰◞ ˕ ◟ ྀི꒱ა *Meus contatos Pessoais*          
 
 
@@ -25,7 +27,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 
+
+
  ──┈┈┈┄┄╌╌╌╌┄┄┈┈┈──°°°·.°·..·°¯°·._.·
+
+ 
  
 <div display = "incline">
 <img width = "50" heigth ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
@@ -43,6 +49,8 @@
 
 <img width ="50" heigth ="50" src="https://lh6.googleusercontent.com/proxy/aFelwGbPlotVVa-LjaVPG7QaMTtsZV8bK0VQvtQVhs-gYAAmP7Ks6EEriouNbzGKkIB2jydb0tj7NOzTLUOyyHLtKdkoQ5WHJ5UjjTcgSKm3-IRQ1xX0fQ" />  
 </div>
+
+
 
  ──┈┈┈┄┄╌╌╌╌┄┄┈┈┈──°°°·.°·..·°¯°·._.·
 
