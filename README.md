@@ -10,7 +10,7 @@
 
   ▍    ▍    ▍    ▍   ☆                                            - ( ≧ᗜ≦) Pronomes: Ele/Dele                                                     
  
-  ▍    ▍    ▍    ✰                                                - (づ๑•ᴗ•๑)づ♡ Curiosidade: gosto de assistir animes, faço edição de video, além disso tenho projetos pessoais como escrever livros e fazer visual novel           
+  ▍    ▍    ▍    ✰                                                - (づ๑•ᴗ•๑)づ♡  tenho projetos pessoais como escrever livros e fazer visual novel           
                                                                                                                     
   ▍    ▍   ☆                                                       
 
