@@ -53,11 +53,7 @@
 
  ──┈┈┈┄┄╌╌╌╌┄┄┈┈┈──°°°·.°·..·°¯°·._.·
 
-☆      (─‿‿─) *Programa voluntario*    
 
-<a href="">
-  <img width ="100" heigth ="100" src=""/>
-</a>
 
 
 
