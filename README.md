@@ -6,11 +6,9 @@
 
   ▍    ▍    ▍    ▍    ▍    ▍ ☆                                  - ৻( •̀ ᗜ •́ ৻)  aprendendo linguagem em c e aprimorando conhecimento 
 
-  ▍    ▍    ▍    ▍    ▍    ✰                                    - (˵ •̀ ᴗ - ˵ ) ✧ Como me contatar: thaissantanasantos2@gmail.com                                           
-
-  ▍    ▍    ▍    ▍   ☆                                            - ( ≧ᗜ≦) Pronomes: Ele/Dele                                                     
- 
-  ▍    ▍    ▍    ✰                                                - (づ๑•ᴗ•๑)づ♡  tenho projetos pessoais como escrever livros e fazer visual novel           
+  ▍    ▍    ▍    ▍    ▍    ✰                                    - (˵ •̀ ᴗ - ˵ ) ✧ Como entra em contato: thaissantanasantos2@gmail.com                                           
+                                                   
+  ▍    ▍    ▍    ✰                                           - (づ๑•ᴗ•๑)づ♡  tenho projetos pessoais como escrever livros e fazer visual novel           
                                                                                                                     
   ▍    ▍   ☆                                                       
 
